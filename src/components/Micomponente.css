@@ -1,0 +1,15 @@
+.mi-componente{
+    background-color: lightskyblue;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.mi-componente h1{
+    color: darkblue;
+}
+
+.mi-componente p{
+    color: darkgreen;
+}
